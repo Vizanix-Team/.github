@@ -8,7 +8,6 @@ Bots · signals · backtests · operator web apps
 
 [![Website](https://img.shields.io/badge/vizanix.tech-0D9488?style=flat-square)](https://vizanix.tech)
 [![Telegram](https://img.shields.io/badge/Telegram-vizanix-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vizanix)
-[![Team channel](https://img.shields.io/badge/Telegram-team%20channel-1E293B?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vizanix_team)
 [![PyPI](https://img.shields.io/pypi/v/tidegbm?style=flat-square&color=0D9488&label=tidegbm)](https://pypi.org/project/tidegbm/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-1E293B?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
